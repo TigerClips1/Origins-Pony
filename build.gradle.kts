@@ -3,7 +3,7 @@ plugins {
     id("io.papermc.paperweight.userdev") version "1.5.11"
 }
 
-group = "com.starshootercity.magicorigins"
+group = "com.tigerclips1.ponyorigins"
 version = "1.0.0"
 
 repositories {

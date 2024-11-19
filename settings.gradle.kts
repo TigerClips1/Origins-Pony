@@ -1,2 +1,2 @@
-rootProject.name = "Origins-Magic"
+rootProject.name = "Origins-Pony"
 
