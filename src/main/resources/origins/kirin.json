@@ -1,0 +1,21 @@
+{
+    "name": "Kirin",
+    "description": "Half unicorn, half dragon, the pony race from the East with a heart of fire.",
+    "powers": [
+        "ponyorigins:common/diets/herbivore",
+        "ponyorigins:common/diets/direct_eat",
+        "ponyorigins:common/quadruped",
+        "ponyorigins:common/hooves",
+        "ponyorigins:common/rideable",
+        "ponyorigins:common/energy",
+        "ponyorigins:common/telekinesis",
+        "ponyorigins:kirin/nirik",
+        "ponyorigins:common/health/armor_kirin",
+        "ponyorigins:common/sounds/pony"
+    ],
+    "icon": {
+        "item": "flint_and_steel"
+    },
+    "order": 10,
+    "impact": 0
+}
