@@ -1,9 +1,0 @@
-name: Origins-Pony
-version: 1.0.0
-main: com.tigerclips1.ponyorigins.OriginsPony
-description: Origins-Reborn addon to add origins with pony power abilities
-api-version: '1.20'
-author: TigerClips1
-
-depend:
-  - Origins-Reborn
