@@ -1,7 +1,7 @@
 name: Origins-Pony
 version: 1.0.0
 main: com.tigerclips1.ponyorigins.OriginsPony
-description: Origins-Reborn addon to add origins with pony power abilities
+description: A Orgin reborn plugin that add the pony powers from the pony origin datapack aka the mine little pony Unicopia power mod port
 api-version: '1.19'
 author: TigerClips1
 
