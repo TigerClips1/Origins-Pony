@@ -31,7 +31,6 @@ public class teleport  implements VisibleAbility, Listener, CooldownAbility {
     }
     private final Random random = new Random();
 
-    @EventHandler
     public void telport_powers()
     {
 
