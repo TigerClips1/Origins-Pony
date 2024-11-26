@@ -2,18 +2,18 @@
     "name": "Hippogriff",
     "description": "Front end of an osprey, back end of a pony, a friendlier predator of the skies.",
     "powers": [
-        "ponyorigins:common/diets/pescavore",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/talons",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/flight/main",
-        "ponyorigins:common/flight/hazards",
-        "ponyorigins:common/wings/waterproof",
-        "ponyorigins:common/sounds/avian"
+        "ponyorigins:pescavore",
+        "ponyorigins:quadruped",
+        "ponyorigins:talons",
+        "ponyorigins:rideable",
+        "ponyorigins:main",
+        "ponyorigins:hazards",
+        "ponyorigins:waterproof",
+        "ponyorigins:avian"
     ],
     "icon": {
         "item": "cod"
     },
-    "order": 13,
+    "order": 0,
     "impact": 0
 }

@@ -2,12 +2,13 @@
     "name": "Chaos Creature",
     "description": "The chaos creature is best described by you, as there is no definitive form a chaos creature takes.",
     "powers": [
-        "ponyorigins:chaos/chaos",
-        "ponyorigins:chaos/randomizer",
-        "ponyorigins:common/energy"
+        "ponyorigins:chaos",
+        "ponyorigins:randomizer",
+        "ponyorigins:energy"
     ],
     "icon": {
         "item": "sculk_vein"
     },
+    "order": 0,
     "impact": 0
 }

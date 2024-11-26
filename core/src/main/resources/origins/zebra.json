@@ -2,20 +2,20 @@
     "name": "Zebra",
     "description": "A culturally distinct race from the land of Zebrica. Similar to an earth pony, and yet, quite different.",
     "powers": [
-        "ponyorigins:common/diets/herbivore",
-        "ponyorigins:common/diets/direct_eat",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/hooves",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/energy",
-        "ponyorigins:common/pony",
-        "ponyorigins:zebra/dust",
-        "ponyorigins:common/health/plus_four",
-        "ponyorigins:common/sounds/pony"
+        "ponyorigins:herbivore",
+        "ponyorigins:direct_eat",
+        "ponyorigins:quadruped",
+        "ponyorigins:hooves",
+        "ponyorigins:rideable",
+        "ponyorigins:energy",
+        "ponyorigins:pony",
+        "ponyorigins:dust",
+        "ponyorigins:plus_four",
+        "ponyorigins:pony"
     ],
     "icon": {
         "item": "vine"
     },
-    "order": 6,
+    "order": 0,
     "impact": 0
 }

@@ -2,29 +2,23 @@
     "name": "Changeling",
     "description": "Insectoid creature that infiltrates pony society and feeds on the love of others to survive.",
     "powers": [
-        "ponyorigins:common/diets/emotivore",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/hooves",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/wallclimb",
-        "ponyorigins:common/energy",
-        "ponyorigins:common/telekinesis",
-        "ponyorigins:common/flight/main",
-        "ponyorigins:common/flight/hazards",
-        "ponyorigins:common/wings/insectoid",
-        "ponyorigins:common/nightvision",
-        "ponyorigins:common/health/minus_four",
-        "ponyorigins:common/sounds/changeling"
+        "ponyorigins:emotivore",
+        "ponyorigins:quadruped",
+        "ponyorigins:hooves",
+        "ponyorigins:rideable",
+        "ponyorigins:wallclimb",
+        "ponyorigins:energy",
+        "ponyorigins:telekinesis",
+        "ponyorigins:main",
+        "ponyorigins:hazards",
+        "ponyorigins:insectoid",
+        "ponyorigins:nightvision",
+        "ponyorigins:minus_four",
+        "ponyorigins:changeling"
     ],
     "icon": {
         "item": "wither_rose"
     },
-    "upgrades": [
-        {
-            "condition": "ponyorigins:changeling/love",
-            "origin": "ponyorigins:races/changedling"
-        }
-    ],
-    "order": 15,
+    "order": 0,
     "impact": 0
 }

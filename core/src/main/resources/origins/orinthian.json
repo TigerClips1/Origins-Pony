@@ -2,13 +2,14 @@
     "name": "Orinthian",
     "description": "Flightless, anthropomorphic birdlike creatures from Orinthia.",
     "powers": [
-        "ponyorigins:common/talons",
+        "ponyorigins:talons",
         "origins:slow_falling",
-        "ponyorigins:common/health/minus_two",
-        "ponyorigins:common/sounds/avian"
+        "ponyorigins:minus_two",
+        "ponyorigins:avian"
     ],
     "icon": {
         "item": "wheat_seeds"
     },
+    "order": 0,
     "impact": 0
 }

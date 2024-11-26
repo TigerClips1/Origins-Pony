@@ -2,19 +2,20 @@
     "name": "Abyssinian",
     "description": "Anthropomorphic cats from the deserts of Abyssinia.",
     "powers": [
-        "ponyorigins:common/diets/carnivore",
-        "ponyorigins:common/nightvision",
+        "ponyorigins:carnivore",
+        "ponyorigins:nightvision",
         "origins:fall_immunity",
         "origins:sprint_jump",
-        "ponyorigins:abyssinian/claws",
-        "ponyorigins:common/wallclimb",
+        "ponyorigins:claws",
+        "ponyorigins:wallclimb",
         "origins:velvet_paws",
         "origins:scare_creepers",
-        "ponyorigins:common/health/minus_two",
-        "ponyorigins:common/sounds/cat"
+        "ponyorigins:minus_two",
+        "ponyorigins:cat"
     ],
     "icon": {
         "item": "tropical_fish"
     },
+    "order": 0,
     "impact": 0
 }

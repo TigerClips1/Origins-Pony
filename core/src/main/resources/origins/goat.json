@@ -2,17 +2,17 @@
     "name": "Goat",
     "description": "A mundane denizen of Equestria. Goats can walk along the steepest of surfaces, and eat nearly anything edible.",
     "powers": [
-        "ponyorigins:common/diets/goat",
-        "ponyorigins:common/diets/direct_eat",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/hooves",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/wallclimb",
-        "ponyorigins:common/sounds/goat"
+        "ponyorigins:goat",
+        "ponyorigins:direct_eat",
+        "ponyorigins:quadruped",
+        "ponyorigins:hooves",
+        "ponyorigins:rideable",
+        "ponyorigins:wallclimb",
+        "ponyorigins:goat"
     ],
     "icon": {
         "item": "goat_horn"
     },
-    "order": 2,
+    "order": 0,
     "impact": 0
 }

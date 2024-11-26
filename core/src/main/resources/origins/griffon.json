@@ -2,19 +2,19 @@
     "name": "Griffon",
     "description": "Front end of an eagle, back end of a lion, a fearsome predator of the skies.",
     "powers": [
-        "ponyorigins:common/diets/carnivore",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/talons",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/flight/main",
-        "ponyorigins:common/flight/hazards",
-        "ponyorigins:common/wings/feathered",
+        "ponyorigins:carnivore",
+        "ponyorigins:quadruped",
+        "ponyorigins:talons",
+        "ponyorigins:rideable",
+        "ponyorigins:main",
+        "ponyorigins:hazards",
+        "ponyorigins:feathered",
         "origins:scare_creepers",
-        "ponyorigins:common/sounds/avian"
+        "ponyorigins:avian"
     ],
     "icon": {
         "item": "salmon"
     },
-    "order": 12,
+    "order": 0,
     "impact": 0
 }

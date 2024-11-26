@@ -2,23 +2,23 @@
     "name": "Dragon",
     "description": "Hatched in lava, born of fire, dragons are an unstoppable force in the world.",
     "powers": [
-        "ponyorigins:common/diets/lithovore",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/talons",
-        "ponyorigins:common/rideable",
-        "ponyorigins:dragon/heat",
-        "ponyorigins:dragon/flamethrower",
-        "ponyorigins:dragon/fireproof",
-        "ponyorigins:common/flight/main",
-        "ponyorigins:common/flight/hazards",
-        "ponyorigins:common/wings/membraneous",
-        "ponyorigins:common/nightvision",
-        "ponyorigins:common/health/armor_dragon",
-        "ponyorigins:common/sounds/dragon"
+        "ponyorigins:lithovore",
+        "ponyorigins:quadruped",
+        "ponyorigins:talons",
+        "ponyorigins:rideable",
+        "ponyorigins:heat",
+        "ponyorigins:flamethrower",
+        "ponyorigins:fireproof",
+        "ponyorigins:main",
+        "ponyorigins:hazards",
+        "ponyorigins:membraneous",
+        "ponyorigins:nightvision",
+        "ponyorigins:armor_dragon",
+        "ponyorigins:dragon"
     ],
     "icon": {
         "item": "blaze_powder"
     },
-    "order": 14,
+    "order": 0,
     "impact": 0
 }

@@ -4,7 +4,7 @@ This plugin is an addon for Origins-Reborn what this adds is  21 new origins.
 This addon is going to allow you to have pony powers similar to Unicopia power mod in fabirc  by mine little pony team.
 
 ## Playable Races:
-
+- you can be any of these race you need to find a screat area that have all the races to you can change from the three tribe  to something you want on a minecraft server you made or you can change the order from 0 to 1 or higher then in the gui selection menu you can become those races but it's turn off for the server to i can use button/commandblock to change the races
 - Human: Minecraft Steve? Alex? plays the same as always. Gain access to one of a few basic Talents that buff your ability to mine or fight.
 
 - Goat: Not ready for the full experience? Goats are the first quadruped, but they can eat anything. Quadrupeds can move faster when they're not holding anything, but having four legs means faster exhaustion. Players can ride most quadrupeds.
@@ -34,24 +34,6 @@ This addon is going to allow you to have pony powers similar to Unicopia power m
 - Dragon: A four legged dragon, dragons are an unstoppable force. Fireproof, very resistant to non-armor-piercing damage, and able to fly, dragons are the first taste in a versatile, powerful race, with a powerset that includes both winged flight, strong defenses, and special abilities. Dragons have an internal flame that must be kept warm, but can purge it out by breathing fire. Unlike other races, dragons are uniquely Lithovores, meaning they eat gemstones. Other kinds of food turn to ash in their digestive system, and they get minimal nutrition from organic foods, as well as ignoring any side effects, good or bad. Instead, dragons get their buffs from eating certain gems, which provide most of their nutrition, and some heat as well. Beware, cold environments and water can slow the regeneration of heat, and even suck it away. Dragons with no heat move slowly.
 
 - Changeling: An insectoid race with the vague appearance of a pony. Changelings are uniquely Emotivores, which don't get nutrition from eating food at all. Changelings feed by using living creatures or other players, draining their health (npc) or hunger (pc) to feed. Tamed creatures and players are more nutritious, and enemies are not. Changelings have insectoid wings that, while resilient against damage, are slower to fly with and do not work at all in the wet. They also have night vision. Changelings are an advanced race to play, and only recommended for players who want the challenge.
-
-<details><summary>- Changedling</summary>
-
-An insectoid race with the vague appearance of a pony. Changedlings are the final evolution of a Changeling, having survived by receiving love from others, instead of taking it by feeding. Becoming a Changedling requires multiplayer interaction, as Changelings can not receive love from NPCs currently. Once a Changeling has received sufficient love, it will automatically evolve once it feeds another Changeling. Changedlings are omnivores, eating the same diet as Humans, are not as weak as Changelings, and have an larger set of abilities available to them. Changedling will be available with a Harmonic Resonator once unlocked, but if you choose Changeling afterwards, you will lose the option until you evolve again.
-</details>
-
-<details><summary>- Alicorn</summary>
-
-A legendary combination of all three main pony races, Alicorns are almost as resilient as earth ponies, fly like pegasi, and have the choice of almost any one Talent, like unicorns. Alicorns have an exclusive choice of more powerful versions of many Talents. In order to become an Alicorn, a pony must first master all three pony races, then be the first to perform an extraordinary achievement. Once completed, they will automatically ascend to Alicorn. Alicorn will be available with a Harmonic Resonator once unlocked.
-</details>
-
-<details><summary>- Chaos</summary>
-
-Complete Minecraft's Hardest Achievement to unlock Chaos Creature. This creature's features and powers are completely randomized on creation. Your Talent will change every time you use it. Due to technical limitations in Origins, you may not be able to see what powers and stats you have rolled, so you will have to figure that out as you play. Chaos Creature is a very advanced race that is difficult to play as due to the nonsensical randomness that you receive. Chaos Creature will be available with a Harmonic Resonator once unlocked.
-</details>
-
-Several Bipedal races from around Equestria are included. While their abilities are limited, they have unique playstyles around their natural advantages.
-
 - Abyssinian: Anthropomorphic cats from the land south of Equestria, Abyssinians are nimble and light. A carnivorous race, they come equipped with night vision, sharp claws, and the ability to land anywhere without taking fall damage. Due to their appearance, Abyssinians are feared by creepers.
 
 - Orinthian: Flightless anthropomorphic parrots from the land of Orinthia. These creatures are herbivores, but lack the ability to directly eat vegetation. Their light bodies allow them to fall slowly to the ground, preventing fall damage, and their taloned hands give them an advantage in unarmed combat.

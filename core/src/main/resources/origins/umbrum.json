@@ -2,19 +2,19 @@
     "name": "Umbrum",
     "description": "Unicorn-like shadow wraiths that stalk the dark corners of the world.",
     "powers": [
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/hooves",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/energy",
-        "ponyorigins:common/telekinesis",
-        "ponyorigins:common/nightvision",
-        "ponyorigins:umbrum/dark_strength",
-        "ponyorigins:umbrum/shadow",
-        "ponyorigins:common/sounds/spectre"
+        "ponyorigins:quadruped",
+        "ponyorigins:hooves",
+        "ponyorigins:rideable",
+        "ponyorigins:energy",
+        "ponyorigins:telekinesis",
+        "ponyorigins:nightvision",
+        "ponyorigins:dark_strength",
+        "ponyorigins:shadow",
+        "ponyorigins:spectre"
     ],
     "icon": {
         "item": "amethyst_shard"
     },
-    "order": 9,
+    "order": 0,
     "impact": 0
 }

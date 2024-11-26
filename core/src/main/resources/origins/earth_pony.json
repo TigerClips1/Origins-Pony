@@ -2,26 +2,20 @@
     "name": "Earth Pony",
     "description": "The most common pony, the backbone of Equestrian civilization, attuned to the earth.",
     "powers": [
-        "ponyorigins:common/diets/herbivore",
-        "ponyorigins:common/diets/direct_eat",
-        "ponyorigins:common/quadruped",
-        "ponyorigins:common/hooves",
-        "ponyorigins:common/rideable",
-        "ponyorigins:common/energy",
-        "ponyorigins:earth_pony/flora",
-        "ponyorigins:common/pony",
-        "ponyorigins:common/health/plus_four",
-        "ponyorigins:common/sounds/pony"
+        "ponyorigins:herbivore",
+        "ponyorigins:direct_eat",
+        "ponyorigins:quadruped",
+        "ponyorigins:hooves",
+        "ponyorigins:rideable",
+        "ponyorigins:energy",
+        "ponyorigins:flora",
+        "ponyorigins:pony",
+        "ponyorigins:plus_four",
+        "ponyorigins:pony"
     ],
     "icon": {
         "item": "apple"
     },
-    "upgrades": [
-        {
-            "condition": "ponyorigins:alicorn/ascension",
-            "origin": "ponyorigins:races/alicorn"
-        }
-    ],
-    "order": 3,
+    "order": 2,
     "impact": 0
 }
