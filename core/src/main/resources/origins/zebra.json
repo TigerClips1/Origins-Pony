@@ -16,6 +16,7 @@
     "icon": {
         "item": "vine"
     },
-    "order": 0,
-    "impact": 0
+    "order": 21,
+    "impact": 0,
+    "unchoosable": true
 }

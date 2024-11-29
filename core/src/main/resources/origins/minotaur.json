@@ -11,6 +11,7 @@
     "icon": {
         "item": "anvil"
     },
-    "order": 0,
-    "impact": 0
+    "order": 15,
+    "impact": 0,
+    "unchoosable": true
 }

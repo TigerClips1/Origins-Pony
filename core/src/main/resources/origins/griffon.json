@@ -15,6 +15,7 @@
     "icon": {
         "item": "salmon"
     },
-    "order": 0,
-    "impact": 0
+    "order": 12,
+    "impact": 0,
+    "unchoosable": true
 }

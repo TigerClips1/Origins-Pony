@@ -1,0 +1,28 @@
+{
+  "name": "Primary Talent",
+  "description": "A unique origin with special abilities",
+  "powers": [
+    "ponyorigins:other",
+    "ponyorigins:defender",
+    "ponyorigins:ranger",
+    "ponyorigins:miner",
+    "ponyorigins:runner",
+    "ponyorigins:barrier",
+    "ponyorigins:tamer",
+    "ponyorigins:manespace",
+    "ponyorigins:levitate",
+    "ponyorigins:flora",
+    "ponyorigins:teleport",
+    "ponyorigins:fireball",
+    "ponyorigins:firecracker",
+    "ponyorigins:flamethrower",
+    "ponyorigins:ice_beam",
+    "ponyorigins:shock_ray",
+    "ponyorigins:laser",
+    "ponyorigins:thunder",
+    "ponyorigins:vanish"
+  ],
+  "impact": 0,
+  "order": 3,
+  "layer": "unicorn_power"
+}

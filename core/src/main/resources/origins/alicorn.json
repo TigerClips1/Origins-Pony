@@ -19,6 +19,7 @@
     "icon": {
         "item": "nether_star"
     },
-    "order": 0,
-    "impact": 0
+    "order": 5,
+    "impact": 0,
+    "unchoosable": true
 }

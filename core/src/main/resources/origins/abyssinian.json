@@ -16,6 +16,7 @@
     "icon": {
         "item": "tropical_fish"
     },
-    "order": 0,
-    "impact": 0
+    "order": 4,
+    "impact": 0,
+    "unchoosable": true
 }

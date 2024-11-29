@@ -15,6 +15,7 @@
     "icon": {
         "item": "oak_wood"
     },
-    "order": 0,
-    "impact": 0
+    "order": 20,
+    "impact": 0,
+    "unchoosable": true
 }

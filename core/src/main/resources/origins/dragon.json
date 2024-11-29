@@ -19,6 +19,7 @@
     "icon": {
         "item": "blaze_powder"
     },
-    "order": 0,
-    "impact": 0
+    "order": 10,
+    "impact": 0,
+    "unchoosable": true
 }

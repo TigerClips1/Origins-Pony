@@ -15,6 +15,7 @@
     "icon": {
         "item": "amethyst_shard"
     },
-    "order": 0,
-    "impact": 0
+    "order": 19,
+    "impact": 0,
+    "unchoosable": true
 }

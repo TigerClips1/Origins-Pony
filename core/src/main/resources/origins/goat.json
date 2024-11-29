@@ -13,6 +13,7 @@
     "icon": {
         "item": "goat_horn"
     },
-    "order": 0,
-    "impact": 0
+    "order": 11,
+    "impact": 0,
+    "unchoosable": true
 }

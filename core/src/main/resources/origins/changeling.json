@@ -19,6 +19,7 @@
     "icon": {
         "item": "wither_rose"
     },
-    "order": 0,
-    "impact": 0
+    "order": 7,
+    "impact": 0,
+    "unchoosable": true
 }
