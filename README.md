@@ -1,21 +1,21 @@
 ## Origins-Pony
 This plugin is an addon for Origins-Reborn what this adds is  21 new origins.
 
-This addon is going to allow you to have pony powers similar to Unicopia power mod in fabirc  by mine little pony team.
+This addon is going to allow you to have pony powers similar to Unicopia power mod in fabric  by mine little pony team.
 
 ## Playable Races:
-- you can be any of these race you need to find a screat area that have all the races to you can change from the three tribe  to something you want on a minecraft server you made or you can change the order from 0 to 1 or higher then in the gui selection menu you can become those races but it's turn off for the server to i can use button/commandblock to change the races
+- you can be any of these race you need to find a screat area that have all the races to you can change from the three tribe  to something you want on a minecraft server you made, or you can change the order from 0 to 1 or higher than in the gui selection menu you can become those races, but it's turn off for the server to I can use button/command block to change the races
 - Human: Minecraft Steve? Alex? plays the same as always. Gain access to one of a few basic Talents that buff your ability to mine or fight.
 
 - Goat: Not ready for the full experience? Goats are the first quadruped, but they can eat anything. Quadrupeds can move faster when they're not holding anything, but having four legs means faster exhaustion. Players can ride most quadrupeds.
 
 - Earth Pony: The most common pony of Equestria, earth ponies are extraordinarly strong, and have the natural ability _Flora_, which allows them to grow planted seeds into plants with their mind. Beware, ponies are all herbivores, and might get sick from eating meat, but ponies can eat most vegetation directly, and with an earth pony's ability to rapidly grow food, this won't be a problem. Most quadrupeds, and all ponies, are rideable by others. In addition, all ponies can choose one of many additional Talents.
 
-- Unicorn: The second most powerful race in Equestria, able to choose almost every Talent available. Unicorns choose two Talents, and can mix and match abilities to have a unique powerset and playstyle. As unicorns have Telekinesis, they are able to reach further with objects they are holding, and don't suffer from any speed penalties when holding items, as they instinctively float what they are holding in their Telekinesis.
+- Unicorn: The second most powerful race in Equestria, able to choose almost every Talent available. Unicorns choose two Talents, and can mix and match abilities to have a unique power set and play style. As unicorns have Telekinesis, they are able to reach further with objects they are holding, and don't suffer from any speed penalties when holding items, as they instinctively float what they are holding in their Telekinesis.
 
 - Pegasus: The mobility race, pegasi live to fly. Although slightly less sturdy than average, pegasi make up for it by being able to fly. However, wings require space on either side, and a pegasus in tight quarters may find skyward escape impossible. The upside is, flight allows easy mobility to places other races would have difficulty reaching.
 
-- Zebra: A culturally distinct race similar to earth ponies, Zebras come from a continent across the Celestia Sea. Zebras have the natural ability to use various dusts (such as redstone, blaze powder, glowstone, and so on) to perform elemental attacks or abilities.
+- Zebra: A culturally distinct race similar to earth ponies, Zebras come from a continent across the Celestia Sea. Zebras have the natural ability to use various dusts (such as red stone, blaze powder, glow stone, and so on) to perform elemental attacks or abilities.
 
 - Yak: An exceptionally strong and hardy race from the cold climate of Yakyakistan, Yaks don't need Talents to be strong. Their bodies are immune to the cold, and they can kick extra hard to SMASH their opponents across the land, or STOMP the ground to send nearby aggressors skyward.
 
@@ -45,7 +45,7 @@ This addon is going to allow you to have pony powers similar to Unicopia power m
 ## Compiling  Requirements
 
 - First you need to install java 17/21.
-- Also you need a 64bit or 32bit computer to be able to compile.
+- Also, you need a 64bit or 32bit computer to be able to compile.
 
 - `Linux command to install java17/21.`
 -  Arch
@@ -64,7 +64,7 @@ This addon is going to allow you to have pony powers similar to Unicopia power m
 - Reason  why we need this becuse minecraft run java 17 and for 1.21 it runs java 21 that why we need it.
 - For  Windows and Linux and Mac.
 -  Then you need to install [Intellij IDEA Community edition](https://www.jetbrains.com/idea/download/other.html).
-- Then watch a video onb how to setup this IDE to you can make your own minecraft plugin.
+- Then watch a video on how to set up this IDE to you can make your own minecraft plugin.
 
 ## Compiling start
 1. `git clone https://github.com/TigerClips1/Origins-Pony or download a zip`
@@ -79,7 +79,7 @@ This addon is going to allow you to have pony powers similar to Unicopia power m
 ## Ending
 - Thanks to the dev in the discord server who made this plugin for helping me on how to build it check out the discord [here](https://discord.gg/dQGaXgxMpg).
 - Thanks to the  ponyorigins  dev BlasterM5 for makeing an awsome and fun datapack that gives us pony powers.
-- Thanks to the Mine little pony team for makeing an awsome pony mod for minecraft and powers.
+- Thanks to Mine little pony team for makeing an awsome pony mod for minecraft and powers.
 - Thanks to the team who made the origin mod.
 
 ## Disclaimer 
