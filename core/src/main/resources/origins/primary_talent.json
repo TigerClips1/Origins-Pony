@@ -24,5 +24,9 @@
   ],
   "impact": 0,
   "order": 3,
-  "layer": "unicorn_power"
+  "layer": "unicorn_power",
+  "icon": {
+    "item": "coal",
+    "unchoosable": true
+  }
 }
