@@ -2,6 +2,7 @@ package com.tigerclips1.ponyorigins;
 
 import com.starshootercity.OriginsAddon;
 import com.starshootercity.abilities.Ability;
+import com.tigerclips1.ponyorigins.abilities.common.flight.ponyflight;
 import com.tigerclips1.ponyorigins.abilities.pegasus.soincrainboom;
 import org.bukkit.Bukkit;
 import org.jetbrains.annotations.NotNull;
@@ -36,6 +37,7 @@ public class OriginsPony extends OriginsAddon {
                 // Discord powers or chaos powers.
 
                 // Common powers.
+                new ponyflight(),
 
                 // Diamond_dog powers.
 
